@@ -1,2 +1,1 @@
-# hellopython
-# learn python
+# hello_python
